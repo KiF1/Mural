@@ -10,9 +10,7 @@
  </div>
 
 <br>
-
-https://user-images.githubusercontent.com/84424883/133330576-8e9606b8-6acc-47fe-bca2-75fa539707b0.mp4
-
+![Tela inicial](./gif/gif.gif)
 <br>
 
 ## Funcionalidades:
