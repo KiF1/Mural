@@ -9,10 +9,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Node" width="50px" height="50px" >
  </div>
 
-<br>
-![Tela inicial](./gif/gif.gif)
-<br>
-
 ## Funcionalidades:
 - Um Mural de Avisos para interações em uma instituição.
 - Adicionar e Eliminar avisos.
