@@ -18,7 +18,7 @@
 
 ## Descrição:
 - Para testar as skills que venho adquirindo ao longo do curso ProgramadorBR, em conjunto com o projeto desenvolvido pelo curso, fiz um mural de avisos com funcionalidade de criar e deletar um aviso com Node.js. A fim de treinar os aprendizados outrora adquiridos no modulo de Node.js e Node.js Express.
-- Este projeto me desafiou bastante, pois além de de desenvolver o backend e integrar com o front, tiver que aprimorar adicionando várias funcionalidades como o delete, a responsividade e as rotas para que qualquer pessoa dentro da mesma rede possa acessar com o endereço ip.
+- Este projeto me desafiou bastante, pois além de desenvolver o backend e integrar com o front, tive que aprimorar adicionando várias funcionalidades como o delete, a responsividade e as rotas para que qualquer pessoa dentro da mesma rede possa acessar com o endereço ip.
 
 ## Observação:
 - Não consegui fixar um video ou imagem do projeto, ou até subir para fazer o teste dele. Mas, postei um gif sobre ele, confere lá no meu linkdin: 
