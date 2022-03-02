@@ -10,11 +10,8 @@
  </div>
 
 ## Funcionalidades:
-- Um Mural de Avisos para interações em uma instituição.
+- Um Mural de Avisos para interações em uma instituição ou para uso próprio.
 - Adicionar e Eliminar avisos.
-
-## Detalhes:
-- Animações em AOS.JS.
 
 ## Descrição:
 - Para testar as skills que venho adquirindo ao longo do curso ProgramadorBR, em conjunto com o projeto desenvolvido pelo curso, fiz um mural de avisos com funcionalidade de criar e deletar um aviso com Node.js. A fim de treinar os aprendizados outrora adquiridos no modulo de Node.js e Node.js Express.
