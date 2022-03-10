@@ -19,7 +19,3 @@
 
 ## Apresentação do Pojeto:
 - <img src="./video.gif">
-
-## Observação:
-- Não consegui fixar um video ou imagem do projeto, ou até subir para fazer o teste dele. Mas, postei um gif sobre ele, confere lá no meu linkdin: 
-- [Linkedin](https://www.linkedin.com/in/abner-santos-b195b8228/) <br/>
