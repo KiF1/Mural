@@ -19,3 +19,8 @@
 
 ## Apresentação do Pojeto:
 - <img src="./video.gif">
+
+## Gostou do meu projeto? :D Entre em contato comigo! 
+- [Linkedin](https://www.linkedin.com/in/abner-santos-b195b8228/) <br/>
+- [Email: abner.kif1@gmail.com](mailto:abner.kif1@gmail.com)
+
